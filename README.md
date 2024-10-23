@@ -78,7 +78,7 @@ This dashboard presents a comprehensive analysis of unemployment trends across I
 This dashboard provides a powerful tool for understanding the economic impact of COVID-19 on unemployment in India. It offers a breakdown of key unemployment statistics by region, time, and area (urban vs rural). By analyzing this data, policymakers and researchers can better understand which regions and demographics were hit hardest and develop targeted recovery strategies.
 
 
-## -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 
 
 # TASK - 2 | Employee Salaries for Different Job Roles - Power BI Dashboard
 
@@ -121,3 +121,7 @@ This Power BI dashboard presents an analysis of employee salaries across differe
 
 ### Conclusion:
 This dashboard provides valuable insights into employee salary trends across various job roles and experience levels. By transforming and enhancing the data, organizations can make informed decisions to improve workforce planning and compensation strategies. Continued focus on retaining senior talent and adapting to market trends will be essential for future success.
+
+
+
+Please give your valuable feedback and suggestions for further improvement.
